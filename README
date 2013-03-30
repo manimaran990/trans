@@ -1,0 +1,16 @@
+author: manimaran990@gmail.com
+date: 30-3-2013
+
+i have seen this on ruby forum today. so i planned to
+try it on python too.
+user have to input string
+four seperate lists:
+
+"A"=[A,B,C,D,E,F] "B"=[G,H,I,J,K,L]
+"C"=[M,N,O,P,Q,R] "D"=[S,T,U,V,W,X,Y,Z]
+
+it have to read the list. and give the equalent char
+
+for ex:
+
+HELLO WORLD="BABBC DCCBA"
